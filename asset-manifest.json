@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/prac/static/css/main.8f49c118.css",
+    "main.js": "/prac/static/js/main.b7fefd15.js",
+    "static/js/787.ea540aa1.chunk.js": "/prac/static/js/787.ea540aa1.chunk.js",
+    "static/media/logo-no-background.png": "/prac/static/media/logo-no-background.eced50419084c4ffacce.png",
+    "index.html": "/prac/index.html",
+    "main.8f49c118.css.map": "/prac/static/css/main.8f49c118.css.map",
+    "main.b7fefd15.js.map": "/prac/static/js/main.b7fefd15.js.map",
+    "787.ea540aa1.chunk.js.map": "/prac/static/js/787.ea540aa1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f49c118.css",
+    "static/js/main.b7fefd15.js"
+  ]
+}
