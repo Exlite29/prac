@@ -1,5 +1,5 @@
 import Calc from "./Item/Calculator";
-import { Routes, Route, Router } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 
 const About = () => {
   return (
